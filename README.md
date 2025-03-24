@@ -1,16 +1,23 @@
-# talker
+<div align="center">
+  
+# :speech_balloon: Talker
+  
+![Flutter](https://img.shields.io/badge/flutter-%2359abe6.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![FireBase](https://img.shields.io/badge/firebase-%23ffc400.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-A new Flutter project.
+Chat em tempo real para conhecer e conversar com pessoas.
 
-## Getting Started
+</div>
 
-This project is a starting point for a Flutter application.
+## :wrench: Funcionalidades do projeto
+O projeto permite acessar a tela de login, cadastro, autenticação de usuário utilizando o firebase auth, e também, sair do App caso esteja autenticado. Além disso, possibilita a criação de grupos de conversas, acessar conversas já criadas, mandar mensagem e receber notificações de mensagens.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Amostra das funcionalidades do App](https://github.com/user-attachments/assets/ff808cd2-28bd-4c3a-b5c1-b40ffa5c0204)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+<div align="center">
+Feito por Raphael da Silva 🚀 <br/>
+  Curso Desenvolvimento Android Nativo Alura
+</div>
