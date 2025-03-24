@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83885842453",
+    "project_id": "talker-83bdf",
+    "storage_bucket": "talker-83bdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83885842453:android:7f22e32bb2fe43c5fb2e1c",
+        "android_client_info": {
+          "package_name": "com.raphaelsilva.talker.talker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDle6FJYJQNoKrgBq_WRj6n9n0_6O2SKQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
